@@ -70,9 +70,19 @@
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
+          {% if site.researchgate %}
+          <a href="{{ site.researchgate}}" target="_blank">
+            <i class="ai ai-researchgate" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
           {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+          {% if site.twitter %}
+          <a href="{{ site.twitter}}" target="_blank">
+            <i class="fab fa-twitter" style="font-size:1.6rem"></i>
           </a>
           {% endif %}
         </div>
