@@ -33,7 +33,10 @@
 
         <h1>{{ site.title }}</h1> 
         
+        {% if site.title2 %}
         <h2 "font-size=:1.5rem">{{ site.title2 }}</h2>
+        <br>
+        {% endif %}
         
         {% if site.position %}
         {{ site.position }}
@@ -61,27 +64,27 @@
         <div class="social-icons">
 
           {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
+          <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in" style="font-size:1.0rem"></i>
           </a>
           {% endif %}
           {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
+          <a style="margin: 0 5px 0 0" href="{{ site.google_scholar}}" target="_blank">
             <i class="ai ai-google-scholar" style="font-size:1.0rem"></i>
           </a>
           {% endif %}
           {% if site.researchgate %}
-          <a href="{{ site.researchgate}}" target="_blank">
+          <a style="margin: 0 5px 0 0" href="{{ site.researchgate}}" target="_blank">
             <i class="ai ai-researchgate" style="font-size:1.0rem"></i>
           </a>
           {% endif %}
           {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
+          <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
           </a>
           {% endif %}
           {% if site.twitter %}
-          <a href="{{ site.twitter}}" target="_blank">
+          <a style="margin: 0 5px 0 0" href="{{ site.twitter}}" target="_blank">
             <i class="fab fa-twitter" style="font-size:1.0rem"></i>
           </a>
           {% endif %}
