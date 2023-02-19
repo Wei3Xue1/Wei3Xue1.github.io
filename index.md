@@ -14,13 +14,20 @@ I am currently a final-year Ph.D. candidate at <a href="https://www.ru.nl/clst/"
 
 ## Publications
 
+- **Measuring Speech Intelligibility of Dysarthric Speech through Automatic Speech Recognition in a Pluricentric Language**
+  <br>
+  **Wei Xue**, Catia Cucchiarini, Roeland van Hout, Helmer Strik
+  <br>
+  **Speech Communication** Accepted
+  [PDF]
+  
 - **Assessing speech intelligibility of pathological speech in sentences and word lists: the contribution of phoneme-level measures**
   <br>
   **Wei Xue**, Roeland van Hout, Catia Cucchiarini, Helmer Strik
   <br>
   **Journal of Communication Disorders**
   <br>
-  [[PDF](https://reader.elsevier.com/reader/sd/pii/S0021992423000011?token=37447326CA4DA422D6F386A5AAF149A85CE0AB845DB3452F1DBD357C5F6E3742CFDAACF65D48F4B0189452ADB70A4ACB&originRegion=eu-west-1&originCreation=20230127105153))]
+  [[PDF](https://reader.elsevier.com/reader/sd/pii/S0021992423000011?token=37447326CA4DA422D6F386A5AAF149A85CE0AB845DB3452F1DBD357C5F6E3742CFDAACF65D48F4B0189452ADB70A4ACB&originRegion=eu-west-1&originCreation=20230127105153)]
 
 - **Assessing speech intelligibility of pathological speech: test types, ratings and transcription measures**
   <br>
@@ -28,7 +35,7 @@ I am currently a final-year Ph.D. candidate at <a href="https://www.ru.nl/clst/"
   <br>
   **Clinical Linguistics & Phonetics**
   <br>
-  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://www.tandfonline.com/doi/pdf/10.1080/02699206.2021.2009918?needAccess=true))] 
+  [[PDF](https://www.tandfonline.com/doi/pdf/10.1080/02699206.2021.2009918?needAccess=true)] 
   
 - **Speech intelligibility of dysarthric speech: human scores and acoustic-phonetic features**
   <br>
