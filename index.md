@@ -20,7 +20,7 @@ I am currently a final-year Ph.D. candidate at <a href="https://www.ru.nl/clst/"
   <br>
   **Speech Communication** 
   <br>
-  [[PDF](https://www.sciencedirect.com/science/article/pii/S0167639323000274)
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0167639323000274)]
   
 - **Assessing speech intelligibility of pathological speech in sentences and word lists: the contribution of phoneme-level measures**
   <br>
