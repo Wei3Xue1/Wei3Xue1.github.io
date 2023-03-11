@@ -61,11 +61,15 @@ I am currently a final-year Ph.D. candidate at <a href="https://www.ru.nl/clst/"
   8th ISCA Workshop on Speech and Language Technology in Education **SLaTE 2019**
   [[PDF](https://www.isca-speech.org/archive_v0/SLaTE_2019/pdfs/SLaTE_2019_paper_11.pdf)]
 
+## Academic service
+
+- Conference Program Committee at INTERSPEECH 2023
+
 ## Teaching
 
 2022/2 - 2022/5: Lecturer of *Spoken Language Processing* at Baden-Wuerttemberg Cooperative State University (DHBW), Germany
 
 ## Personal interests
 
-Cooking, learning language, traveling, petting cats
+Cooking, learning languages, traveling, petting cats
 
