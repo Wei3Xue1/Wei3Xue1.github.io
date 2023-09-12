@@ -24,8 +24,6 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
 
 - **Measuring the intelligibility of pathological speech through subjective and objective procedures**
   <br>
-  **Wei Xue**
-  <br>
   **Doctoral thesis**
   <br>
   [[PDF](https://repository.ubn.ru.nl/bitstream/handle/2066/289696/289696.pdf?sequence=1&isAllowed=y)]
