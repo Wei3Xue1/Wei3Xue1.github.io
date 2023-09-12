@@ -14,6 +14,14 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
 
 ## Publications
 
+- **Automatic assessments of dysarthric speech: the usability of acoustic-phonetic features**
+  <br>
+  Loes van Bemmel, Chiara Pesenti, **Wei Xue**, Helmer Strik
+  <br>
+  **Interspeech 2023**
+  <br>
+  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2023/vanbemmel23_interspeech.pdf)]
+
 - **Measuring the intelligibility of pathological speech through subjective and objective procedures**
   <br>
   **Wei Xue**
