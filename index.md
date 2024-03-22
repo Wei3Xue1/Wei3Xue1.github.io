@@ -19,8 +19,9 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
   Omnia Ibrahim, Ivan Yuen, **Wei Xue**, Bistra Andreeva, Bernd Möbius
   <br>
   **Elektronische Sprachsignalverarbeitung 2024, Tagungsband der 35. Konferenz 2024**
-  <be>
+  <br>
   [[PDF](https://opus4.kobv.de/opus4-oth-regensburg/frontdoor/deliver/index/docId/7098/file/essv2024_196.pdf)]
+  
 - **Automatic assessments of dysarthric speech: the usability of acoustic-phonetic features**
   <br>
   Loes van Bemmel, Chiara Pesenti, **Wei Xue**, Helmer Strik
