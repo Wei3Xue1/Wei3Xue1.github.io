@@ -13,6 +13,17 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
 - **speech technology:** automatic speech recognition, machine learning
 
 ## Publications
+- **Towards a better understanding of receptive multilingualism: listening conditions and priming effects**
+  <br>
+  **Wei Xue**, Ivan Yuen, Bernd Möbius
+  <br>
+  **Interspeech 2024**
+
+- **Cross-Linguistic Intelligibility of Non-Compositional Expressions in Spoken Context**
+  <br>
+  Iuliia Zaitova, Irina Stenger, **Wei Xue**, Tania Avgustinova, Bernd Möbius, Dietrich Klakow
+  <br>
+  **Interspeech 2024**
 
 - **Listener-Oriented Consequences of Predictability-Based Acoustic Adjustment**
   <br>
@@ -85,7 +96,7 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
 
 ## Academic service
 
-- Conference Program Committee at INTERSPEECH 2023
+- Conference Program Committee at INTERSPEECH 2023, 2024
 
 ## Teaching
 
@@ -93,5 +104,5 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
 
 ## Personal interests
 
-Cooking, learning languages, traveling, petting cats
+Cooking, learning languages, bouldering, petting cats
 
