@@ -18,12 +18,16 @@ From June 2023 to May 2025, I will work as a postdoc at <a href="https://www.lst
   **Wei Xue**, Ivan Yuen, Bernd Möbius
   <br>
   **Interspeech 2024**
+  <br>
+  [[PDF](https://www.isca-archive.org/interspeech_2024/xue24_interspeech.pdf)]
 
 - **Cross-linguistic intelligibility of non-compositional expressions in spoken context**
   <br>
   Iuliia Zaitova, Irina Stenger, **Wei Xue**, Tania Avgustinova, Bernd Möbius, Dietrich Klakow
   <br>
   **Interspeech 2024**
+  <br>
+  [[PDF](https://www.isca-archive.org/interspeech_2024/zaitova24_interspeech.pdf)]
 
 - **Listener-oriented consequences of predictability-based acoustic adjustment**
   <br>
