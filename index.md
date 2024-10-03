@@ -101,6 +101,7 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
 ## Academic service
 
 - Conference Program Committee at INTERSPEECH 2023, 2024
+- Co-chair a session at INTERSPEECH 2024
 
 ## Teaching
 
