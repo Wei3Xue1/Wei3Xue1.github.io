@@ -13,6 +13,14 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
 - **speech technology:** automatic speech recognition, machine learning
 
 ## Publications
+- **Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study**
+  <br>
+  Maria Kunilovskaya, Iuliia Zaitova, **Wei Xue**, Irina Stenger, and Tania Avgustinova
+  <br>
+  **NoDaLiDa 2024**
+  <br>
+  [[PDF](https://openreview.net/pdf?id=iB4nugdqjg)]
+  
 - **Towards a better understanding of receptive multilingualism: listening conditions and priming effects**
   <br>
   **Wei Xue**, Ivan Yuen, Bernd Möbius
@@ -102,10 +110,11 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
 
 - Conference Program Committee at INTERSPEECH 2023, 2024
 - Co-chair a session at INTERSPEECH 2024
+- Reviewer of Speech Communication
 
 ## Teaching
-
-2022/2 - 2022/5: Guest lecturer of *Spoken Language Processing* at Baden-Wuerttemberg Cooperative State University (DHBW), Germany
+2024/11 - 2025/03: WS block seminar/software project *NLP for Receptive Multilingualism* together with Iuliia Zaitova at Saarland University, Germany
+2022/02 - 2022/05: Guest lecturer of *Spoken Language Processing* at Baden-Wuerttemberg Cooperative State University (DHBW), Germany
 
 ## Personal interests
 
