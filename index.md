@@ -108,12 +108,13 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
 
 ## Academic service
 
-- Conference Program Committee at INTERSPEECH 2023, 2024
+- Conference Program Committee at INTERSPEECH 2023-2025, ARR
 - Co-chair a session at INTERSPEECH 2024
 - Reviewer of Speech Communication
 
 ## Teaching
 2024/11 - 2025/03: WS block seminar/software project *NLP for Receptive Multilingualism* together with Iuliia Zaitova at Saarland University, Germany
+
 2022/02 - 2022/05: Guest lecturer of *Spoken Language Processing* at Baden-Wuerttemberg Cooperative State University (DHBW), Germany
 
 ## Personal interests
