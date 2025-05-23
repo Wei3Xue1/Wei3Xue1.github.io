@@ -13,6 +13,22 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
 - **speech technology:** automatic speech recognition, machine learning
 
 ## Publications
+- **The Effect of Word Predictability on Spoken Cross-Language Intelligibility**
+  <br>
+  **Wei Xue**, Iuliia Zaitova, and Bernd Möbius
+  <br>
+  **Interspeech 2025**
+  <br>
+  [[PDF]]
+  
+- **It’s Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems**
+  <br>
+  Iuliia Zaitova, Badr M. Abdullah, **Wei Xue**, Dietrich Klakow, Bernd Möbius, Tania Avgustinova
+  <br>
+  **ACL 2025**
+  <br>
+  [[PDF]]
+  
 - **Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study**
   <br>
   Maria Kunilovskaya, Iuliia Zaitova, **Wei Xue**, Irina Stenger, and Tania Avgustinova
