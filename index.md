@@ -27,7 +27,7 @@ From June 2023 to May 2025, I am a postdoc at <a href="https://www.lst.uni-saarl
   <br>
   **ACL 2025**
   <br>
-  [[PDF]]
+  [[PDF(chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2506.02995)]]
   
 - **Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study**
   <br>
