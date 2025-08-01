@@ -26,7 +26,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **ACL 2025**
   <br>
-  [[PDF](https://arxiv.org/abs/2506.02995)]
+  [[PDF](https://aclanthology.org/2025.acl-long.1512/)]
   
 - **Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study**
   <br>
