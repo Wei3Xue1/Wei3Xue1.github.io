@@ -134,5 +134,5 @@ speech and music signals — their **physical characteristics**, **perception**,
 
 ## Personal interests
 
-Cooking & bouldering (but not practicing), ping pong, and petting cats
+Cooking, bouldering, ping pong, and petting cats
 
