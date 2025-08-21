@@ -12,6 +12,14 @@ I am an Assistant Professor at Xi'an Jiaotong University, China. From June 2023 
 speech and music signals — their **physical characteristics**, **perception**, and **technological applications**
 
 ## Publications
+- **The Role of Surprisal and Entropy in Spoken Intercomprehension: An Experiment on Translation of Cognates with Varied Predictability**
+  <br>
+  **Wei Xue**, Julius Steuer, Dietrich Klakow, and Bernd Möbius
+  <br>
+  **ITG Conference on Speech Communication, 2025.**
+  <br>
+  [[PDF]]
+
 - **The Effect of Word Predictability on Spoken Cross-Language Intelligibility**
   <br>
   **Wei Xue**, Iuliia Zaitova, and Bernd Möbius
