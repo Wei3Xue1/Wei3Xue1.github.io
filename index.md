@@ -34,7 +34,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **ACL 2025**
   <br>
-  [[PDF](https://aclanthology.org/2025.acl-long.1512/)]
+  [[Link](https://aclanthology.org/2025.acl-long.1512/)]
   
 - **Predictability of Microsyntactic Units across Slavic Languages: A Translation-based Study**
   <br>
@@ -42,7 +42,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **NoDaLiDa 2024**
   <br>
-  [[PDF](https://openreview.net/pdf?id=iB4nugdqjg)]
+  [[Link](https://aclanthology.org/2025.nodalida-1.34/)]
   
 - **Towards a better understanding of receptive multilingualism: listening conditions and priming effects**
   <br>
@@ -66,7 +66,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Elektronische Sprachsignalverarbeitung 2024, Tagungsband der 35. Konferenz 2024**
   <br>
-  [[PDF](https://opus4.kobv.de/opus4-oth-regensburg/frontdoor/deliver/index/docId/7098/file/essv2024_196.pdf)]
+  [[PDF](https://www.coli.uni-saarland.de/~moebius/documents/ibrahim_etal_essv2024.pdf)]
   
 - **Automatic assessments of dysarthric speech: the usability of acoustic-phonetic features**
   <br>
@@ -74,7 +74,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Interspeech 2023**
   <br>
-  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2023/vanbemmel23_interspeech.pdf)]
+  [[Link](https://www.isca-archive.org/interspeech_2023/vanbemmel23_interspeech.html)]
 
 - **Measuring the intelligibility of pathological speech through subjective and objective procedures**
   <br>
@@ -88,7 +88,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Speech Communication, 2023** 
   <br>
-  [[PDF](https://www.sciencedirect.com/science/article/pii/S0167639323000274)]
+  [[Link](https://www.sciencedirect.com/science/article/pii/S0167639323000274)]
   
 - **Assessing speech intelligibility of pathological speech in sentences and word lists: the contribution of phoneme-level measures**
   <br>
@@ -96,7 +96,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Journal of Communication Disorders, 2022**
   <br>
-  [[PDF](https://reader.elsevier.com/reader/sd/pii/S0021992423000011?token=37447326CA4DA422D6F386A5AAF149A85CE0AB845DB3452F1DBD357C5F6E3742CFDAACF65D48F4B0189452ADB70A4ACB&originRegion=eu-west-1&originCreation=20230127105153)]
+  [[Link](https://www.sciencedirect.com/science/article/pii/S0021992423000011)]
 
 - **Assessing speech intelligibility of pathological speech: test types, ratings and transcription measures**
   <br>
@@ -112,7 +112,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Interspeech 2021**
   <br>
-  [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2021/xue21c_interspeech.pdf)] 
+  [[Link](https://www.isca-archive.org/interspeech_2021/xue21c_interspeech.html)] 
 
 - **Towards a comprehensive assessment of speech intelligibility for pathological speech**
   <br>
@@ -120,18 +120,19 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **Interspeech 2020**
   <br>
-  [[PDF](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2693.pdf)]
+  [[Link](https://www.isca-archive.org/interspeech_2020/xue20_interspeech.html)]
   
 - **Acoustic correlates of speech intelligibility: the usability of the eGeMAPS feature set for atypical speech**
   <br>
   **Wei Xue**, Catia Cucchiarini, Roeland van Hout, Helmer Strik
   <br>
   8th ISCA Workshop on Speech and Language Technology in Education **SLaTE 2019**
-  [[PDF](https://www.isca-speech.org/archive_v0/SLaTE_2019/pdfs/SLaTE_2019_paper_11.pdf)]
+  <br>
+  [[Link](https://www.isca-archive.org/slate_2019/xue19_slate.html#)]
 
 ## Academic service
 
-- Conference Program Committee at INTERSPEECH 2023-2025, ARR
+- Conference Program Committee at INTERSPEECH 2023-2025, ACL 2025, EMNLP 2025
 - Co-chair a session at INTERSPEECH 2024
 - Reviewer of Speech Communication
 
