@@ -18,7 +18,7 @@ speech and music signals — their **physical characteristics**, **perception**,
   <br>
   **ITG Conference on Speech Communication, 2025.**
   <br>
-  [[PDF]]
+  [[PDF](https://sfb1102.uni-saarland.de/sfbunisb/uploads/2025/12/xue_etal_itg2025.pdf)]
 
 - **The Effect of Word Predictability on Spoken Cross-Language Intelligibility**
   <br>
@@ -132,6 +132,7 @@ speech and music signals — their **physical characteristics**, **perception**,
 
 ## Academic service
 
+- Conference Area Chair ACL 2026, EACL 2025
 - Conference Program Committee at INTERSPEECH 2023-2025, ACL 2025, EMNLP 2025
 - Co-chair a session at INTERSPEECH 2024
 - Reviewer of Speech Communication
