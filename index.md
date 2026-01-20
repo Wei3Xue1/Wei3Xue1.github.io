@@ -132,7 +132,7 @@ speech and music signals — their **physical characteristics**, **perception**,
 
 ## Academic service
 
-- Conference Area Chair ACL 2026, EACL 2025
+- Conference Area Chair at ACL 2026, EACL 2025
 - Conference Program Committee at INTERSPEECH 2023-2025, ACL 2025, EMNLP 2025
 - Co-chair a session at INTERSPEECH 2024
 - Reviewer of Speech Communication
